@@ -34,6 +34,9 @@ Learn the skills to create a video game from idea to playable completion. Experi
 #### Morning
 * What is programming? - [Video](https://www.youtube.com/watch?v=z06QR-tz1_o) *10 mins*
 * Undestand how computers think - [My Robotic Friends](https://csedweek.org/files/CSEDrobotics.pdf) by [Tinkersmith](http://thinkersmith.org/) *30 mins*
+* **[Project 03](https://github.com/mositech/videoGameDesigners/tree/master/03_CarRace)** *2 hours*
+ * Let's take what we've just learned about programming and apply it to our own game.
+ * 
 
 #### Afternoon
 
