@@ -32,6 +32,8 @@ Learn the skills to create a video game from idea to playable completion. Experi
  
 ### Day 2
 #### Morning
+* What is programming? *10 mins*
+* Undestand how computers think - [My Robotic Friends](https://csedweek.org/files/CSEDrobotics.pdf) by [Tinkersmith](http://thinkersmith.org/) *30 mins*
 
 #### Afternoon
 
