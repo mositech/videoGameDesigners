@@ -36,7 +36,10 @@ Learn the skills to create a video game from idea to playable completion. Experi
 * Undestand how computers think - [My Robotic Friends](https://csedweek.org/files/CSEDrobotics.pdf) by [Tinkersmith](http://thinkersmith.org/) *30 mins*
 * **[Project 03](https://github.com/mositech/videoGameDesigners/tree/master/03_CarRace)** *2 hours*
  * Let's take what we've just learned about programming and apply it to our own game.
- * 
+ * What is an "if statement"?
+ * Program your car to move forward, back, and turn
+ * Design a race track level
+ * Create obstacles and ramps
 
 #### Afternoon
 
