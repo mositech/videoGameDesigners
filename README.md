@@ -9,12 +9,18 @@
 Learn the skills to create a video game from idea to playable completion. Experience all phases of game development including level design, coding, and graphics while creating an engaging video game.
 
 ## Lesson Plan
-#### Day 1
+### Day 1
+#### Morning
 
+#### Afternoon
 
-#### Day 2
+### Day 2
+#### Morning
 
+#### Afternoon
 
-#### Day 3
+### Day 3
+#### Morning
 
+#### Afternoon
 
