@@ -14,7 +14,11 @@ Learn the skills to create a video game from idea to playable completion. Experi
 * Icebreaker - [Who Am I?](http://www.icebreakers.ws/medium-group/who-am-i.html) *20 mins*
 * Principles of Game Design - Objectives *10 mins*
 * **Project 01** *2 hours*
- *
+ * What is a platformer and what is the goal?
+ * Introduce Unity software
+ * Navigation around the software window
+ * Maneuvering around in game scene
+ * Move, scale, rotate
 
 #### Afternoon
 
