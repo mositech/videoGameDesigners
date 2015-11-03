@@ -28,6 +28,7 @@ Learn the skills to create a video game from idea to playable completion. Experi
  * Attach scripts to objects
  * Add tags to objects
  * Design a game scene with enemies
+* Free exploration time *1 hour* 
  
 ### Day 2
 #### Morning
