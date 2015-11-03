@@ -21,7 +21,14 @@ Learn the skills to create a video game from idea to playable completion. Experi
  * Move, scale, rotate
 
 #### Afternoon
-
+* **Project 02** *2 hours*
+ * This project is built to allow you to move the character with an Xbox Controller
+ * How to maneuver around a 3D game scene
+ * Creating new objects and complex shapes
+ * Attach scripts to objects
+ * Add tags to objects
+ * Design a game scene with enemies
+ 
 ### Day 2
 #### Morning
 
