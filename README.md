@@ -35,6 +35,7 @@ Learn the skills to create a video game from idea to playable completion. Experi
 * What is programming? - [Video](https://www.youtube.com/watch?v=z06QR-tz1_o) *10 mins*
 * Undestand how computers think - [My Robotic Friends](https://csedweek.org/files/CSEDrobotics.pdf) by [Tinkersmith](http://thinkersmith.org/) *30 mins*
 * **[Project 03](https://github.com/mositech/videoGameDesigners/tree/master/03_CarRace)** *2 hours*
+ * [Handout](https://github.com/mositech/videoGameDesigners/blob/master/Handouts/Project03_Car%20Script%20Handout.docx)
  * Let's take what we've just learned about programming and apply it to our own game.
  * What is an "if statement"?
  * Program your car to move forward, back, and turn
@@ -43,6 +44,7 @@ Learn the skills to create a video game from idea to playable completion. Experi
 
 #### Afternoon
 * **[Project 03](https://github.com/mositech/videoGameDesigners/tree/master/03_CarRace) Continued** *2 hours*
+ * [Handout](https://github.com/mositech/videoGameDesigners/blob/master/Handouts/Project03_Parkour%20Car%20Handout.docx)
  * What is a variable? 
  * Introduction to Vector3
  * Create checkpoints for your race
