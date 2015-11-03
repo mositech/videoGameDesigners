@@ -42,6 +42,12 @@ Learn the skills to create a video game from idea to playable completion. Experi
  * Create obstacles and ramps
 
 #### Afternoon
+* **[Project 03](https://github.com/mositech/videoGameDesigners/tree/master/03_CarRace) Extension** *2 hours*
+ * What is a variable? 
+ * Introduction to Vector3
+ * Create checkpoints for your race
+ * Reset the position if your car can't move or has fallen off the world
+* Free exploration time *1 hour* 
 
 ### Day 3
 #### Morning
