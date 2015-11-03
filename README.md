@@ -11,6 +11,8 @@ Learn the skills to create a video game from idea to playable completion. Experi
 ## Lesson Plan
 ### Day 1
 #### Morning
+* Icebreaker - [Who Am I?](http://www.icebreakers.ws/medium-group/who-am-i.html) *20 mins*
+* Principles of Game Design - Objectives *10 mins*
 
 #### Afternoon
 
