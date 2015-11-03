@@ -13,7 +13,7 @@ Learn the skills to create a video game from idea to playable completion. Experi
 #### Morning
 * Icebreaker - [Who Am I?](http://www.icebreakers.ws/medium-group/who-am-i.html) *20 mins*
 * Principles of Game Design - Objectives *10 mins*
-* **Project 01** *2 hours*
+* **[Project 01](https://github.com/mositech/videoGameDesigners/tree/master/01_Platformer)** *2 hours*
  * What is a platformer and what is the goal?
  * Introduce Unity software
  * Navigation around the software window
@@ -21,7 +21,7 @@ Learn the skills to create a video game from idea to playable completion. Experi
  * Move, scale, rotate
 
 #### Afternoon
-* **Project 02** *2 hours*
+* **[Project 02](https://github.com/mositech/videoGameDesigners/tree/master/02_XboxController)** *2 hours*
  * This project is built to allow you to move the character with an Xbox Controller
  * How to maneuver around a 3D game scene
  * Creating new objects and complex shapes
