@@ -57,3 +57,75 @@ public class carMotion : MonoBehaviour {
 	}
 }
 ```
+
+#### 4. Adding in the rest
+* Below you will see that all of the buttons we need have if-statements made for them. What movement should happen when you activate any of these inputs?
+
+```
+using UnityEngine;
+using System.Collections;
+
+public class carMotion : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		//****Movement Controls****
+		if(Input.GetKey(KeyCode.W)){
+			transform.position += transform.forward * 5 * Time.deltaTime;
+		}
+
+		if (Input.GetKey (KeyCode.S)) {
+			
+		}
+
+		if (Input.GetKey (KeyCode.A)) {
+			
+		}
+
+		if (Input.GetKey (KeyCode.D)) {
+			
+		}
+	}
+}
+```
+
+#### 5. Turning the car
+* You may have realized that we don’t yet know how to turn our car. We need to use the car’s rotation values instead of its position. We will use the code: **transform.Rotate** to turn our car. 
+
+```
+using UnityEngine;
+using System.Collections;
+
+public class carMotion : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		//****Movement Controls****
+		if(Input.GetKey(KeyCode.W)){
+			transform.position += transform.forward * 5 * Time.deltaTime;
+		}
+
+		if (Input.GetKey (KeyCode.S)) {
+			transform.position -= transform.forward * 5 * Time.deltaTime;
+		}
+
+		if (Input.GetKey (KeyCode.A)) {
+			transform.Rotate(0f, -80f * Time.deltaTime, 0f);
+		}
+
+		if (Input.GetKey (KeyCode.D)) {
+			transform.Rotate(0f, 80f * Time.deltaTime, 0f);
+		}
+	}
+}
+```
