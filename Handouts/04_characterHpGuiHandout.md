@@ -1,7 +1,7 @@
 # Character HP and GUI
 ## Today we’re learning how to give your player an hp system
 
-#### Remember Variables?
+#### 1. Remember Variables?
 * To Jog your memory, variables in programming are words that stand in for numbers and can be changed during the game. 
 * First step is to make a new C# script and name it: “characterHp” (no quotes)
 * We’re going to be making a variable called “hp” (no quotes) and set it equal to however much health we want our player to start the game with. 
@@ -26,7 +26,7 @@ void Update () {
 }
 ```
 
-#### OnTriggerEnter
+#### 2. OnTriggerEnter
 * Does **“OnTriggerEnter”** sound a bit similar to anyone? Remember we used it to check if something has entered a trigger object. In programming terms, this is called a **Method**, or an action that we use regularly. You know something is a method when you see the word **Void** next to it.  We want to check if our character has bumped into any enemy units. If it does, we want the hp variable to go down by 1.
 * Inside of the **OnTrggerEnter** method we need to check if the trigger is tagged with the word “enemy”. This is similar to the way we did this project before. When the tag matches, hp is set to the current hp value minus 1. 
 * Let’s say I have 5 apples, and I give one to my friend. How many apples do I now have? We can take the original value (5) and subtract the one I gave away and now I have 4 apples. 
@@ -55,11 +55,11 @@ hp = hp - 1;
 }
 ```
 
-#### Restarting when hp is less than 1
+#### 3. Restarting when hp is less than 1
 * *IF my hp is less than 1, THEN I want to restart the game.*
-Where have we seen this sentence structure before? Of course, when we learned about **if statements**. 
-What is the condition that needs to be met? And what is the result?
-To restart the game, we will use the code: **Application.loadLevel(0)**;
+* Where have we seen this sentence structure before? Of course, when we learned about **if statements**. 
+* What is the condition that needs to be met? And what is the result?
+* To restart the game, we will use the code: **Application.loadLevel(0)**;
 
 ```
 
@@ -90,7 +90,7 @@ hp = hp - 1;
 }	 
 ```
 
-#### Graphic User Interface (GUI)
+#### 4. Graphic User Interface (GUI)
 * Have you ever wondered how game developers make HP bars in video games? This is a ** user interface** and it gives the player information about the game. We are going to make it happen for ourselves.
 * We are going to start by typing a new method called “**OnGUI**”. This is used for any graphic user interfaces in Unity. 
 * First we will create a new variable and name it “**hpBar**”. We are doing this so we can connect the length of the bar to the hp number that are character currently has.
