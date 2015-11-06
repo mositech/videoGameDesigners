@@ -53,6 +53,14 @@ Learn the skills to create a video game from idea to playable completion. Experi
 
 ### Day 3
 #### Morning
-
+* Introduction to Blender and 3D modeling *20 mins*
+ * What is 3D modeling used for in games?
+ * Why is it important?
+ * Teach students how to maneuver around the object, create new objects - move, rotate, and scale
+* GeoPrimitive Animal design *1 Hour*
+ * Students will create an animal using only simple shapes.
+* Create A new car for your game *1 hour*
+ * Teach students how to export a 3d model and import it to Unity
 #### Afternoon
-
+* Free build *3 hours*
+* For any students that could use more directed content give them the handout to code a minecraft copy
