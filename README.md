@@ -61,7 +61,7 @@ Learn the skills to create a video game from idea to playable completion. Experi
  * Students will create an animal using only simple shapes.
 * Create A new car for your game *1 hour*
  * Teach students how to export a 3d model and import it to Unity
- * 
+ 
 #### Afternoon
 * Free build *3 hours*
 * For any students that could use more directed content give them the handout to code a minecraft copy
